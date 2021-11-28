@@ -1,0 +1,38 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : "."
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/OPENGL Udemy SAVES/Praca_Mateusz_Kolaczyk/Praca_Mateusz_Kolaczyk/Code/External Libs/GLM/glm/out/build/x64-Debug",
+		"source" : "D:/OPENGL Udemy SAVES/Praca_Mateusz_Kolaczyk/Praca_Mateusz_Kolaczyk/Code/External Libs/GLM/glm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
